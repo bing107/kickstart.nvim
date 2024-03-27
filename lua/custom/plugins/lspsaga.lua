@@ -1,10 +1,1 @@
-return {
-  'nvimdev/lspsaga.nvim',
-  config = function()
-    require('lspsaga').setup {}
-  end,
-  dependencies = {
-    'nvim-treesitter/nvim-treesitter', -- optional
-    'nvim-tree/nvim-web-devicons', -- optional
-  },
-}
+../../../../../.dotfiles/nvim/.config/nvim/lua/custom/plugins/lspsaga.lua

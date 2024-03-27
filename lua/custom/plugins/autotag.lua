@@ -1,8 +1,1 @@
-return {
-  'windwp/nvim-ts-autotag',
-  event = 'VeryLazy',
-  config = function()
-    require('nvim-ts-autotag').setup {}
-  end,
-  opts = {},
-}
+../../../../../.dotfiles/nvim/.config/nvim/lua/custom/plugins/autotag.lua
